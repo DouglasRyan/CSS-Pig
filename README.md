@@ -1,10 +1,13 @@
-[CSS做小猪佩奇](https://douglasryan.github.io/CSS-Pige/)
+[小猪佩奇](https://douglasryan.github.io/CSS-Pige/)
 
-[参考链接](https://link.jianshu.com/?t=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000014909658)
-[参考链接](https://www.jianshu.com/p/d7d3ae50f817)
+
 
 
 ## 参考了两篇文章
+
+[思路参考链接](https://link.jianshu.com/?t=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000014909658)<br>
+
+[代码参考链接](https://www.jianshu.com/p/d7d3ae50f817)
 
 ## 后期要优化的地方
 
