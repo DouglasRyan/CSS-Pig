@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    height: 80vh;
+    display: flex;
+}
+
+pre {
+    flex: 1;
+    z-index: 200;
+    overflow: hidden;
+    height: 100vh;
+    border: yellow;
+}
+
+.wrapper {
+    flex: 1;
+}
